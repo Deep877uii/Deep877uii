@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a Computer Science postgraduate student currently pursuing my M.Tech, with a strong foundation in Electrical Engineering and a growing specialization in data-driven software systems and machine learning. I have hands-on experience in building scalable solutions, particularly in manufacturing and quality systems, gained through my internship where I worked on improving defect detection and automating processes using Python, SQL, and VB.NET.<br><br>My technical interests lie in machine learning, cloud computing, and distributed systems. I enjoy working on real-world problems—evident from projects like a wildfire detection system using computer vision and a predictive quality assurance pipeline. I focus on writing efficient, maintainable code and continuously improving model performance through data analysis and optimization.<br><br>I am passionate about leveraging technology to solve practical challenges, especially in areas involving automation, predictive analytics, and intelligent systems.
 
 
